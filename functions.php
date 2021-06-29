@@ -1,6 +1,7 @@
 <?php
 /**
  * Functions and definitions
+ * Adding a line to the comments in the functions file so that i can test git.
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
